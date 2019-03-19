@@ -5,7 +5,7 @@
   "_integrity": "sha1-jur5Ci60dhubPiMfHQSBBDTmX/g=",
   "_location": "/gulp-cjs",
   "_phantomChildren": {
-    "async-cache": "0.1.5",
+    "async-cache": "1.1.0",
     "fd": "0.0.3"
   },
   "_requested": {
@@ -32,14 +32,14 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "browserify": "^3.38.1",
-    "filesize": "^2.0.3",
-    "gulp-rename": "^1.2.0",
-    "gulp-streamify": "0.0.5",
-    "gulp-uglify": "^0.2.1",
-    "mold-source-map": "^0.3.0",
-    "st": "^0.4.1",
-    "vinyl-source-stream": "^0.1.1"
+    "browserify": "^16.2.3",
+    "filesize": "^4.1.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-streamify": "1.0.2",
+    "gulp-uglify": "^3.0.2",
+    "mold-source-map": "^0.4.0",
+    "st": "^1.2.2",
+    "vinyl-source-stream": "^2.0.0"
   },
   "deprecated": false,
   "description": "",
